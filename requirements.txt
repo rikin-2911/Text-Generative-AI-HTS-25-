@@ -1,5 +1,6 @@
 streamlit
-torch==2.0.1
+torch==2.0.1+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
 model_definition
 torchtext
 Vocab
