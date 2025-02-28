@@ -1,7 +1,5 @@
 pip==25.0.1
-streamlit
-torch==2.2.0+cu118
-model_definition
-torchtext
-Vocab
-Image
+streamlit==1.25.0
+torch==2.1.0+cpu
+numpy==1.23.5
+-f https://download.pytorch.org/whl/torch_stable.html
