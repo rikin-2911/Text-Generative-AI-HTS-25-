@@ -1,5 +1,6 @@
 streamlit
 torch==2.0.1
+model_definition
 torchtext
 Vocab
 Image
