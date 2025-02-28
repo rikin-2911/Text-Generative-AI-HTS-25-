@@ -1,0 +1,3 @@
+build-essential
+cmake
+libgl1-mesa-glx
