@@ -1,7 +1,6 @@
 pip==25.0.1
 streamlit
-torch==2.0.1+cu118
--f https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cu118
 model_definition
 torchtext
 Vocab
